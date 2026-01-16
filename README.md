@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=tboerger&column=4&margin-w=5&margin-h=5&theme=flat" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=tboerger&column=4&margin-w=6&margin-h=6&theme=flat" alt="GitHub Trophies" />
 </p>
