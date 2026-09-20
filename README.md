@@ -11,7 +11,3 @@
 <p align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=tboerger&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=tboerger&column=4&margin-w=6&margin-h=6&theme=flat" alt="GitHub Trophies" />
-</p>
